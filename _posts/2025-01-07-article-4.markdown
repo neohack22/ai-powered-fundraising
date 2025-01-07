@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 6
-date: 2024-05-08
+modal-id: 4
+date: 2025-01-07
 img: heavy-blend-zip-hoodie.png
 alt: Le sweat à capuche zippé unisexe en mélange épais
 project-date: 1 375 € + Le sweat à capuche zippé unisexe en mélange épais
