@@ -2,8 +2,8 @@
 layout: default
 modal-id: 9
 date: 2025-01-07
-img: all-over-print-drawstring-bag-white-mockup-663ba53eddfb5.png
-alt: Le Sac à dos tout imprimé
+img: profile.png
+alt: Guide pratique pour lever des fonds plus efficacement grâce à l'Intelligence Artificielle conversationelle
 project-date: 550 € + Les Relations Investisseurs assistées par l'IA
 client: 500 €
 category: 600 €
