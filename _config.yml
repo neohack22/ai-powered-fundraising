@@ -1,10 +1,10 @@
 # Site settings
 title: Investir en mode IA
 email: abdoulaye.doucoure@dauphine.eu
-url: https://www.paypal.com/ncp/payment/VJTK3GS3N3KJE
-description: "Participez au financement de la distribution du livre "Les Relations Investisseurs assistées par l'IA" et récoltez des royalties sur les ventes."
+url: https://www.paypal.com/ncp/payment/TUT2PSSCBDPQ4
+description: "Quels sont les avantages d'utiliser l'IA conversationnelle pour lever des fonds ? Le guide pratique pour lever des fonds efficacement grâce à l'intelligence artificielle conversationnelle."
 keywords: "intelligence artificielle, investissement, levée de fonds, IA conversationnelle, entrepreneuriat, relations investisseurs, IA, technologie, finance, startups, levée de fonds, financement, startups, capital-risque, crowdfunding, IA accessible, entrepreneuriat féminin, IA responsable, éthique, impact social, livre, intelligence artificielle, investissement, précommande, offre spéciale, auteur, entrepreneur, investisseur, IA, technologie, éditeur, maison d'édition, intelligence artificielle, investissement, startups, produits dérivés, mode, IA, investissement, entrepreneuriat"
-skills: "Rejoignez une révolution technologique dans le monde de la finance et partagez les fruits de son succès."
+skills: "Devenez un héros des temps modernes avec des compétences en IA"
 meta_author: DOUCOURE Abdoulaye
 
 # Google webmaster tools
@@ -49,7 +49,6 @@ social:
     url: https://www.instagram.com/neohack22_lyricaption/
   - title: github
     url: https://github.com/neohack22/ai-powered-fundraising/
-
 
 # Postal address (add as many lines as necessary)
 address:
