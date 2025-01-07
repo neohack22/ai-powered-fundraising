@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 4
-date: 2024-05-08
+modal-id: 1
+date: 2025-01-07
 img: cropped-hoodie.png
 alt: Le Sweat à capuche court
 project-date: 1 650 € + Le Sweat à capuche court
