@@ -4,8 +4,8 @@ modal-id: 10
 date: 2024-05-08
 img: organic-denim-tote-bag-denim-blue-right-front-663b93d5880c9.png
 alt:	Le sac en Jean Écologique - WELTARE Bio
-project-date: €79.50
-client: Le sac en Jean Écologique - WELTARE Bio
-category: 50 x 46 cm, Longueur de la poignée 60 cm, largeur 4 cm, Limite de poids maximale de 13,6 kg
-description: Le sac en Jean Écologique WELTARE Bio est l'accessoire idéal pour les personnes soucieuses de l'environnement et à la recherche d'un sac à la fois élégant et pratique. Fabriqué à partir de coton 100 % biologique, ce sac est à la fois durable et doux au toucher. Son design spacieux peut accueillir votre livre, vos courses ou vos affaires du quotidien, tandis que sa poche intérieure vous permet de garder vos petits objets bien rangés.
+project-date: 880 € + Le sac en Jean Écologique WELTARE Bio
+client: 800 €
+category: 960 €
+description: Le sac en Jean est l'accessoire idéal pour les personnes soucieuses de l'environnement et à la recherche d'un sac à la fois élégant et pratique. Fabriqué à partir de coton 100 % biologique, ce sac est à la fois durable et doux au toucher. Son design spacieux peut accueillir votre livre, vos courses ou vos affaires du quotidien, tandis que sa poche intérieure vous permet de garder vos petits objets bien rangés.
 ---
