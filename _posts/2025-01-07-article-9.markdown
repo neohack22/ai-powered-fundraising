@@ -7,5 +7,5 @@ alt: Le Sac à dos tout imprimé
 project-date: 550 € + Le Sac à dos tout imprimé
 client: 500 €
 category: 600 €
-description: Plus qu'un simple sac, un véritable accessoire pour exprimer votre personnalité unique. Transportez votre ordinateur portable, votre livre et votre Coupe-vent avec style.
+description: Plus qu'un simple sac, un véritable accessoire pour exprimer votre personnalité unique. Transportez votre ordinateur portable, votre livre et votre veste à capuche avec style.
 ---
