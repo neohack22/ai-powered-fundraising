@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 8
-date: 2024-05-08
+modal-id: 6
+date: 2025-01-07
 img: all-print-cropped-windbreaker.png
 alt: image-alt
 project-date: 1 155 € + Le Coupe-vent court pour femme
