@@ -4,8 +4,8 @@ modal-id: 8
 date: 2024-05-08
 img: all-print-cropped-windbreaker.png
 alt: image-alt
-project-date: €102.75
-client: Le Coupe-vent court pour femme
-category: XS à 2XL
-description:  La solution idéale pour celles qui recherchent style, confort et polyvalence. Fabriqué avec des matériaux légers et respirants et conçu avec une technologie avancée, ce coupe-vent offre une protection légère contre le vent tout en assurant un confort optimal. Que ce soit pour une sortie en plein air ou une journée décontractée en ville, ce coupe-vent répond à tous vos besoins avec élégance et praticité. Fabriqué avec soin et engagement envers le confort, ce coupe-vent est le choix idéal pour celles qui veulent allier style et fonctionnalité.
+project-date: 1 155 € + Le Coupe-vent court pour femme
+client: 1 050 €
+category: 1 260 €
+description:  La solution idéale pour celles qui recherchent style, confort et polyvalence. Fabriqué avec des matériaux légers et respirants et conçu avec une technologie avancée, ce coupe-vent offre une protection légère contre le vent tout en assurant un confort optimal. Que ce soit pour une sortie en plein air ou une journée décontractée en ville, ce coupe-vent répond à tous vos besoins avec élégance et praticité. Fabriqué avec soin et engagement envers le confort, ce coupe-vent est le choix idéal pour celles qui veulent allier style et fonctionnalité. Disponible du XS au 2XL.
 ---
