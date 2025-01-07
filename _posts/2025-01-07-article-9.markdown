@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 9
+modal-id: 8
 date: 2025-01-07
 img: profile.png
 alt: Guide pratique pour lever des fonds plus efficacement grâce à l'Intelligence Artificielle conversationelle
-project-date: 550 € + Les Relations Investisseurs assistées par l'IA
-client: 500 €
-category: 600 €
+project-date: 610 € + Les Relations Investisseurs assistées par l'IA
+client: 550 €
+category: 660 €
 description: Ce livre est une ressource indispensable pour quiconque souhaite lever des fonds plus efficacement. Grâce à l'IA conversationnelle, améliorez votre collecte de fonds et gagnez du temps précieux.
 ---
