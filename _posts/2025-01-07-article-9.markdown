@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 9
+date: 2025-01-07
+img: all-over-print-drawstring-bag-white-mockup-663ba53eddfb5.png
+alt: Le Sac à dos tout imprimé
+project-date: 550 € + Les Relations Investisseurs assistées par l'IA
+client: 500 €
+category: 600 €
+description: Ce livre est une ressource indispensable pour quiconque souhaite lever des fonds plus efficacement. Grâce à l'IA conversationnelle, améliorez votre collecte de fonds et gagnez du temps précieux.
+---
