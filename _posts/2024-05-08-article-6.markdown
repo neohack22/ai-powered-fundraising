@@ -4,8 +4,8 @@ modal-id: 6
 date: 2024-05-08
 img: heavy-blend-zip-hoodie.png
 alt: Le sweat à capuche zippé unisexe en mélange épais
-project-date: €121.50
-client: Le sweat à capuche zippé unisexe en mélange épais - WELTARE Couture & Broderie
-category: S à 5XL
-description: Il convient à toute personne recherchant un vêtement chaud, confortable et polyvalent pour une utilisation quotidienne. Parfait pour les adultes de tous âges, hommes et femmes.
+project-date: 1 375 € + Le sweat à capuche zippé unisexe en mélange épais
+client: 1 250 €
+category: 1 500 €
+description: Il convient à toute personne recherchant un vêtement chaud, confortable et polyvalent pour une utilisation quotidienne. Parfait pour les adultes de tous âges, hommes et femmes. Disponible du S au 5XL.
 ---
