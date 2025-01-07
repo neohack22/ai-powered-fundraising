@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 10
+date: 2025-01-07
+img: eco-raglan-hoodie.png
+alt: Le Sweat à Capuche Unisexe Éco Raglan
+project-date: 1 595 € + Le Sweat à Capuche Unisexe Éco Raglan
+client: 1 450 €
+category: 1 740 €
+description: Ce sweat à capuche unisexe éco raglan est idéal pour les jeunes adultes soucieux de la mode et de l'environnement. Convient à ceux qui recherchent des vêtements confortables et tendance, fabriqués de manière éthique. Disponible du XS au 3XL.
+---
