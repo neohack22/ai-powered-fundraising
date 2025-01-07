@@ -4,8 +4,8 @@ modal-id: 7
 date: 2024-05-08
 img: all-print-recycled-hoodie-white-front.png
 alt: image-alt
-project-date: €133.50
-client: Sweat à capuche unisexe
-category: 2XS à 6XL
-description: La solution parfaite pour ceux qui recherchent confort, durabilité et style. Fabriqué avec des matériaux recyclés et conçu avec une technologie avancée, ce sweat offre un confort inégalé tout en réduisant l'impact environnemental.
+project-date: 1 485 € + Le Sweat à capuche unisexe
+client: 1 350 €
+category: 1 620 €
+description: La solution parfaite pour ceux qui recherchent confort, durabilité et style. Fabriqué avec des matériaux recyclés et conçu avec une technologie avancée, ce sweat offre un confort inégalé tout en réduisant l'impact environnemental. Disponible du 2XS au 6XL.
 ---
