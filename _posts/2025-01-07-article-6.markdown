@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 2
-date: 2024-05-08
+modal-id: 6
+date: 2025-01-07
 img: kids-eco-hoodie-grey.png
 alt: image-alt
 project-date: 990 € + Le sweat à capuche écologique pour enfants
 client: 900 €
-category: 1080 €
+category: 1 080 €
 description: Il convient à tous les parents soucieux de l'environnement cherchant des vêtements durables et confortables pour leurs enfants de 4 à 12 ans.
 ---
