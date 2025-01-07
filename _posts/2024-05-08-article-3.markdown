@@ -4,8 +4,8 @@ modal-id: 3
 date: 2024-05-08
 img: all-over-print-recycled-unisex-hoodie-white-front-6629cd51b8384.png
 alt: Le Sweat à capuche unisexe recyclé à imprimé intégral
-project-date: €133.50
-client: Le Sweat à capuche unisexe recyclé à imprimé intégral - WELTARE Couture & Broderie
-category: 2XS à 6XL
-description: La solution parfaite pour ceux qui recherchent confort, style et polyvalence. Fabriqué avec des matériaux recyclés de haute qualité et conçu avec un design avancé, ce sweat à capuche offre une protection légère tout en assurant un confort optimal.Que ce soit pour une activité en plein air ou une journée décontractée en ville, ce sweat à capuche répond à tous vos besoins avec élégance et praticité. Fabriqué avec soin et engagement envers le confort et l'environnement, ce sweat à capuche unisexe est un choix idéal pour ceux qui veulent allier style et durabilité.
+project-date: 1485 € + Le Sweat à capuche unisexe recyclé à imprimé intégral
+client: 1350 €
+category: 1620
+description: La solution parfaite pour ceux qui recherchent confort, style et polyvalence. Fabriqué avec des matériaux recyclés de haute qualité et conçu avec un design avancé, ce sweat à capuche offre une protection légère tout en assurant un confort optimal.Que ce soit pour une activité en plein air ou une journée décontractée en ville, ce sweat à capuche répond à tous vos besoins avec élégance et praticité. Fabriqué avec soin et engagement envers le confort et l'environnement, ce sweat à capuche unisexe est un choix idéal pour ceux qui veulent allier style et durabilité. Disponible du 2XS au 6XL
 ---
