@@ -4,7 +4,7 @@ modal-id: 1
 date: 2024-05-08
 img: all-over-print-drawstring-bag-white-mockup-663ba53eddfb5.png
 alt: 600 €
-project-date: Le Sac à dos tout imprimé + 550€
+project-date: 550€ + Le Sac à dos tout imprimé
 client: Le Sac à dos tout imprimé
 category: Capacité de 15 litres
 description: Plus qu'un simple sac, un véritable accessoire pour exprimer votre personnalité unique. Transportez votre ordinateur portable, votre livre et votre Coupe-vent avec style.
